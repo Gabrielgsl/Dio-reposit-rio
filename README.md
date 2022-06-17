@@ -1,3 +1,4 @@
-# Dio-reposit-rio
-primeiro repositório de treino Dio
-## (sintaxe basica  markdawm)
+#  REPOSITÓDIO DESAIO DIO SOBRE GITHUB  
+Meu primeiro repositório de treino
+##Links úteis 
+
