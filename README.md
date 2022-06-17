@@ -1,4 +1,4 @@
-#  REPOSITÓDIO DESAIO DIO SOBRE GITHUB  
+#  REPOSITÓRIO DE DESAFIO DIO   
 Meu primeiro repositório de treino
 ##Links úteis 
 
